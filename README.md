@@ -65,7 +65,7 @@
 
 Sinta-se à vontade para explorar o conteúdo do repositório e começar a contribuir!
 
-## CONTATO
+## CONTATOS
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovani-pereira-807437275/)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/giovani.barbosa.10297/)
