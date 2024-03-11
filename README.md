@@ -1,6 +1,6 @@
 ### Olá ! Eu sou o Giovani Pereira , aluno da campinho digital 🤙
 
-![Texto Alternativo](/GiovaniP-Barbosa/img/WhatsApp%20Image%202024-02-28%20at%2000.40.00.jpeg )
+![Texto Alternativo](/GiovaniP-Barbosa/img/WhatsApp%20Image%202024-02-28%20at%2000.40.00.jpe)
 
 
 ![Linguagens que serao usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
